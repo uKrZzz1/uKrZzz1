@@ -7,3 +7,5 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=)](https://www.twitch.tv/ucruz3)
 
 ![Leonardo Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=uKrZzz1&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uKrZzz1)](https://github.com/anuraghazra/github-readme-stats)
