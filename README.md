@@ -1,6 +1,6 @@
 
 ### Olá, eu sou Leonardo Cruz ✌️
-Tenho 25 anos e sou Estudante de Desenvolvimento Back-end.
+Tenho 27 anos e sou Estudante de Desenvolvimento Back-end.
 Pai de Pet, amante de jogos, esportes e culinária.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardovfcruz/)
